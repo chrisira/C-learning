@@ -9,7 +9,6 @@ namespace constructor_properties1
         //public int width;
         private int volume;
 
-
     public int Width { get; set; }
         
     public int Height
