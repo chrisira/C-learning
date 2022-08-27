@@ -49,6 +49,7 @@ namespace constructor_properties1
         this.length = length;
         this.Height = height;
         this.Width = width;
+        System.Console.WriteLine( "Hi");
     }
 
       public Box(int height,int width){
