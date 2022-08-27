@@ -1,0 +1,15 @@
+E:\C#\constructor_properties1\bin\Debug\net6.0\constructor_properties1.exe
+E:\C#\constructor_properties1\bin\Debug\net6.0\constructor_properties1.deps.json
+E:\C#\constructor_properties1\bin\Debug\net6.0\constructor_properties1.runtimeconfig.json
+E:\C#\constructor_properties1\bin\Debug\net6.0\constructor_properties1.dll
+E:\C#\constructor_properties1\bin\Debug\net6.0\constructor_properties1.pdb
+E:\C#\constructor_properties1\obj\Debug\net6.0\constructor_properties1.csproj.AssemblyReference.cache
+E:\C#\constructor_properties1\obj\Debug\net6.0\constructor_properties1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\constructor_properties1\obj\Debug\net6.0\constructor_properties1.AssemblyInfoInputs.cache
+E:\C#\constructor_properties1\obj\Debug\net6.0\constructor_properties1.AssemblyInfo.cs
+E:\C#\constructor_properties1\obj\Debug\net6.0\constructor_properties1.csproj.CoreCompileInputs.cache
+E:\C#\constructor_properties1\obj\Debug\net6.0\constructor_properties1.dll
+E:\C#\constructor_properties1\obj\Debug\net6.0\refint\constructor_properties1.dll
+E:\C#\constructor_properties1\obj\Debug\net6.0\constructor_properties1.pdb
+E:\C#\constructor_properties1\obj\Debug\net6.0\constructor_properties1.genruntimeconfig.cache
+E:\C#\constructor_properties1\obj\Debug\net6.0\ref\constructor_properties1.dll
